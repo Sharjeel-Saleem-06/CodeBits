@@ -1,2 +1,4 @@
 Your Query was:7+8
 Your answer is:15
+Your Query was: 1 + 2
+Your answer is: 3
